@@ -1,12 +1,13 @@
-﻿using System;
-
+﻿using kaw393939.consoleInstance;
 namespace ConsoleApp
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! Console App");
+            ConsoleObject _console = new ConsoleObject();
+
+            _console.Display("test");
         }
     }
 }
