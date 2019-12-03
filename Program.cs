@@ -1,9 +1,9 @@
 ﻿using kaw393939.consoleInstance;
 namespace ConsoleApp
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             ConsoleObject _console = new ConsoleObject();
 
