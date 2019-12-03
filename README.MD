@@ -29,7 +29,7 @@ In this lesson, you will modify the predefined console app created at the start 
 9. Publish your project as a .net core 3.0 windows program and run it.
 ## Module Assignment
 Your assignment is to complete the calculator tutorial and refactor it to implement unit testing, namespaces, interfaces, classes, and static methods.  Your final program should demonstrate your understanding of the Don't repeat yourself rule.
-[Start Here](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2019)
+[Starting Project Here](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2019)
 ## Testing Requirements:
 1.  You must have unit tests for all the functions you create and they must all pass.   
 2.  Test that you can publish the program and run on your own computer
